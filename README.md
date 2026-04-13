@@ -24,8 +24,8 @@
 |---|---|
 | 🐹 **Go** | ████████████░░ Advanced |
 | 🐍 **Python** | ████████████░░ Advanced |
-| 🦀 **Rust** | ████████░░░░░░ Intermediate |
-| 🔷 **TypeScript** | ████████████░░ Advanced |
+| 🦀 **Rust** | ████████████░░ Advanced |
+| 🔷 **TypeScript** | ████░░░░░░░░░░ Beginner |
 | 🍃 **MongoDB** | ████████████░░ Advanced |
 | 🐳 **Docker** | ██████████░░░░ Intermediate |
 | 🔧 **Git** | ████████████░░ Advanced |
@@ -41,6 +41,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riad374-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riad374-code&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
