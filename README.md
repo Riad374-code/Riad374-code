@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Riad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Passionate backend developer who loves building scalable systems
+- 💻 Passionate AI software developer who loves building intelligent, scalable systems
 - 🌱 Always exploring new technologies and sharpening my skills
 - 🎯 Focused on writing clean, efficient, and maintainable code
 
