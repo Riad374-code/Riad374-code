@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,rust,ts,tauri,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,rust,ts,tauri,nestjs,mongodb,git,docker&theme=dark" />
 </p>
 
 ---
