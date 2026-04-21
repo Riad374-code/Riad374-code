@@ -17,18 +17,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,rust,ts,mongodb,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,rust,ts,tauri,nestjs&theme=dark" />
 </p>
-
-| Language / Tool | Level |
-|---|---|
-| 🐹 **Go** | ████████████░░ Advanced |
-| 🐍 **Python** | ████████████░░ Advanced |
-| 🦀 **Rust** | ████████████░░ Advanced |
-| 🔷 **TypeScript** | ████░░░░░░░░░░ Beginner |
-| 🍃 **MongoDB** | ████████████░░ Advanced |
-| 🐳 **Docker** | ██████████░░░░ Intermediate |
-| 🔧 **Git** | ████████████░░ Advanced |
 
 ---
 
