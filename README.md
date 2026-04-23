@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Riad374-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="github/metrics.languages.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riad374-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
