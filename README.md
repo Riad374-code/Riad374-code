@@ -17,7 +17,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,rust,ts,tauri,nestjs,mongodb,postgresql,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,rust,ts,tauri,nestjs,mongodb,postgresql,git,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </p>
 
 ---
